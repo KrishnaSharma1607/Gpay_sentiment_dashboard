@@ -96,6 +96,17 @@ def run_pipeline(app_id="com.google.android.apps.nbu.paisa.user", review_count=5
             continue  # already done in a previous run — skip instantly, no NLP call
 
         try:
+            # ---- staging_raw_reviews (capture raw data before any NLP processing) ----
+            cursor.execute("""
+                INSERT INTO staging_raw_reviews
+                    (review_id, review_text, star_rating, app_version, thumbs_up_count, review_date)
+                VALUES (%s, %s, %s, %s, %s, %s)
+                ON CONFLICT (review_id) DO NOTHING;
+            """, (
+                review_id, content, r['score'], r['appVersion'],
+                r['thumbsUpCount'], review_date
+            ))
+
             # ---- dim_review ----
             cursor.execute("""
                 INSERT INTO dim_review
