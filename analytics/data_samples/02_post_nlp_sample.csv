@@ -1,0 +1,26 @@
+review_id,review_text,star_rating,aspect_name,sentiment_label,sentiment_score,aspect_confidence,is_severity_high
+000c4b99-7bce-48b8-8211-19bd3f63eaa2,super,5,General Feedback,POSITIVE,0.9988,0.3118,false
+00131a06-c652-417e-b2f2-1cb656908ecb,this is the worst application. please don't use this they're doing fraud on payments and the response of the agent's very bad . phonepe is better than this stupid google pay.,1,General Feedback,NEGATIVE,-0.9998,0.279,false
+0013b343-3866-4b9d-840e-bf9d0827ad46,nice,5,General Feedback,POSITIVE,0.9999,0.3122,false
+001bb385-b877-4419-ba79-4181454d1115,Payments clarity is very good in this app.,5,Transactions and Auto-Pay,POSITIVE,0.9996,0.5276,false
+001fc139-4923-4adb-9ab3-1c01f7ba5a18,nice,5,General Feedback,POSITIVE,0.9999,0.3122,false
+0025bbea-9b52-43d3-b4a7-dfad65b62a3e,best payment application,5,General Feedback,POSITIVE,0.9996,0.3463,false
+002665c4-7e44-44f2-9f37-eb1df016d6f6,good,5,General Feedback,POSITIVE,0.9998,0.293,false
+002845df-8b32-4fe3-8968-1757a89d95f2,good,5,General Feedback,POSITIVE,0.9998,0.293,false
+0030b864-f13a-4100-9894-60b6984bdb5a,Google pay is interfering with my 8 ball pool game,1,General Feedback,NEGATIVE,-0.9994,0.3179,false
+00342728-f68e-4678-9577-ccabab57c35c,very good,5,General Feedback,POSITIVE,0.9999,0.2376,false
+0036efc1-79f6-4073-a252-287679b01a1d,I do so many transactions but still not get any cashback,1,"Rewards, Cashback and Offers",NEGATIVE,-0.9944,0.4203,false
+0038d7f5-bf72-4a37-b2ba-42aff5a8439a,fast h par secure nhi mere phone m other upi apps bhi h par cyber fraud Google pay se hi hua so doston sambhal kar or inki customer care koi help bhi nhi karti,1,Account Security and Fraud Risk,NEGATIVE,-0.9975,0.4685,true
+003c358d-7b25-4e20-a9c9-7b2b3f164532,"This app is so boring. That I can't even react, mention to any chat messages😢 can't put status like WhatsApp. Pls do some work on it",1,General Feedback,NEGATIVE,-0.9998,0.4335,false
+004503f2-d6e7-49b7-b748-820ce1692952,good 👍,5,General Feedback,POSITIVE,0.9998,0.293,false
+005ab29f-40f9-407d-9128-226431bc0e00,good,5,General Feedback,POSITIVE,0.9998,0.293,false
+005bdb22-460d-4645-9453-d529bd65e1f8,super,5,General Feedback,POSITIVE,0.9988,0.3118,false
+005fe37c-63db-414b-8ce3-8005341e65e1,this app good,5,General Feedback,POSITIVE,0.9998,0.3306,false
+006e0a1a-85e0-43e6-be1d-dfa374410888,very nice,5,General Feedback,POSITIVE,0.9999,0.2864,false
+006fd894-6edb-48df-9cf5-0db78a0297dc,frod,1,Account Security and Fraud Risk,NEGATIVE,-0.9877,0.5815,true
+00724aa4-e58c-41bb-92b5-2be467bdf6dd,nice,5,General Feedback,POSITIVE,0.9999,0.3122,false
+00746ca3-f2ec-4802-8071-87bd90dc6ee9,love this app and so much faster download👍,5,General Feedback,POSITIVE,0.9998,0.3213,false
+007a76fa-4983-4409-b047-5d6c18d700e3,good,5,General Feedback,POSITIVE,0.9998,0.293,false
+0080967c-330d-477b-b759-05b9d0ca2d00,best app for transaction but right now i have a problem with technical issue please fixed it,5,Transactions and Auto-Pay,NEGATIVE,-0.9977,0.7038,true
+0081a62a-fb0c-410c-98cd-69bd1927d11c,keyboard is very difficult,3,General Feedback,NEGATIVE,-0.9988,0.2147,false
+00845580-6ef6-41f6-bc6b-a3b42c3fb114,Disgusting experience. Gpay team unable to solve the technical problems. repeated messages of having exceeded 20 transactions though i have not used even one,1,Transactions and Auto-Pay,NEGATIVE,-0.9998,0.4436,true
